@@ -1,0 +1,25 @@
+{
+  "name": "full-stack-project-01-15-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "express-flash": "^0.0.2",
+    "express-session": "^1.17.2",
+    "joi": "^17.6.0",
+    "method-override": "^3.0.0",
+    "mongodb": "^4.4.0",
+    "mongoose": "^6.2.3",
+    "passport": "^0.5.2",
+    "passport-local": "^1.0.0"
+  }
+}
